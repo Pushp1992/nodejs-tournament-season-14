@@ -1,0 +1,22 @@
+
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "userList": [
+            {
+                "id": 1,
+                "name": "pushp",
+                "email": "pushp@gmail.com",
+                "created_at": "20/12/2020",
+                "city": "Bangalore"
+            },
+            {
+                "id": 2,
+                "name": "rahul",
+                "email": "rahul@gmail.com",
+                "city": "Pune"
+            }
+        ]
+    }
+ }

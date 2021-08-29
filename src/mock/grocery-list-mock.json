@@ -1,0 +1,78 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "groceryList": {
+            "category": [
+                {
+                    "fruits": {
+                        "type": [
+                            {
+                                "seasonal": [
+                                    {
+                                        "id": 1,
+                                        "name": "mango",
+                                        "title": "maldah mangoes",
+                                        "price": "200/kg"
+                                    }
+                                ],
+                                "allSeason": [
+                                    {
+                                        "id": 1,
+                                        "name": "papaya",
+                                        "title": "organic papaya",
+                                        "price": "40/kg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "vegetables": {
+                        "type": [
+                            {
+                                "seasonal": [
+                                    {
+                                        "id": 1,
+                                        "name": "cauliflower",
+                                        "title": "organic caulifolower",
+                                        "price": "20/kg"
+                                    }
+                                ],
+                                "allSeason": [
+                                    {
+                                        "id": 1,
+                                        "name": "potato",
+                                        "title": "newly harvested potatto",
+                                        "price": "35/kg"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "ration": {
+                        "type": [
+                            {
+                                "seasonal": [
+                                    {
+                                        "id": 1,
+                                        "name": "Mustard Oil",
+                                        "title": "Patanjali mustard oil",
+                                        "price": "176/litre"
+                                    }
+                                ],
+                                "allSeason": [
+                                    {
+                                        "id": 1,
+                                        "name": "Flour",
+                                        "title": "Multigrain Flour",
+                                        "price": "275/5kg"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}
